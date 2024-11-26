@@ -12,9 +12,7 @@ http://shanb.in/
 
 [Twitter](https://twitter.com/shanb1605) 
 
-[LinkedIn](https://www.linkedin.com/in/n-shanmuga-bharathi-96898b188/)  
-
-[Portfolio](https://bold.pro/my/nsbharathi) 
+[Portfolio](https://mirror.xyz/0xBA23dfd7cCCD3587A1b8909dd5BcCfD92aCeAE6f) 
 
 
 
