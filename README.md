@@ -12,7 +12,7 @@ principles, EVM mechanics, and current smart contract vulnerabilities. A clear c
 [Portfolio](https://mirror.xyz/0xBA23dfd7cCCD3587A1b8909dd5BcCfD92aCeAE6f) 
 
 
-**Skills:**
+**Tech Stack and Skills:**
 <p>
 <img src="https://skillicons.dev/icons?i=c,solidity,rust,python,linux,docker"/>
 </p>
